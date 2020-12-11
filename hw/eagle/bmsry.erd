@@ -1,0 +1,53 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for /mnt/home/deh/GliderWinchItems/BMSpoorman/hw/eagle/bmspoorman2.sch at 12/04/2020 22:12:38 
+
+WARNING: Sheet 1/1: unconnected Pin: R8 2
+WARNING: Sheet 1/1: unconnected Pin: R9 2
+WARNING: Sheet 1/1: unconnected Pin: CON4 2
+WARNING: Sheet 1/1: unconnected Pin: COF4 2
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 G
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 SER
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC1P VCC
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC2 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC2 G
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC2P VCC
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC3 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC3 G
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC3P VCC
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 SCL
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 SCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 G
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 SER
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC4P VCC
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC5 SCL
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC5 SCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC5 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC5 G
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC5 SER
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC5P VCC
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC6 SCL
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC6 SCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC6 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC6 G
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC6 SER
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC6P VCC
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC7 SCL
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC7 SCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC7 RCK
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC7 G
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC7 SER
+ERROR: Sheet 1/1: no SUPPLY for implicit POWER Pin IC7P VCC
+WARNING: No Pins on net C0
+WARNING: Only 1 Pin on net C12
+WARNING: No Pins on net C20
+WARNING: No Pins on net N$15
+ERROR: Only INPUT Pins on net N$90
+ERROR: Only INPUT Pins on net N$93
+
+Board and schematic are consistent
+
+   36 errors
+    8 warnings
