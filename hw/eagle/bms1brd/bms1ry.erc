@@ -1,0 +1,31 @@
+EAGLE Version 4.13 Copyright (c) 1988-2004 CadSoft
+
+Electrical Rule Check for /mnt/home/deh/GliderWinchItems/BMSry/hw/eagle/bms1brd/bms1ry.sch at 12/13/2020 21:06:16 
+
+WARNING: Sheet 1/1: POWER Pin IC1P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC4P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC5P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC7P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC9P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC10P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin U$28G$2 VCC+ connected to +5V
+WARNING: Sheet 1/1: POWER Pin U$28G$2 VCC- connected to AGND
+WARNING: No Pins on net C0
+WARNING: No Pins on net C20
+WARNING: No Pins on net N$15
+WARNING: No Pins on net N$37
+WARNING: No Pins on net N$76
+WARNING: No Pins on net N$104
+WARNING: Sheet 1/1, Net C15: missing Junction at (16.35 9.975)
+WARNING: Sheet 1/1, Net N$55: missing Junction at (10 10.65)
+WARNING: Sheet 1/1, Net N$56: missing Junction at (11.125 10.65)
+WARNING: Sheet 1/1, Net NSS-RCLK: missing Junction at (-1.9 -0.8)
+WARNING: Sheet 1/1: Nets +5V and SCK too close at (2.45 7.25)
+WARNING: Sheet 1/1: Nets +5V and MOSI-FROM-PROC too close at (2.25 7.25)
+WARNING: Sheet 1/1, Net +5V: wire overlaps pin at (2.45 7.25)
+WARNING: Sheet 1/1, Net +5V: wire overlaps pin at (2.25 7.25)
+
+Board and schematic are consistent
+
+    0 errors
+   22 warnings
